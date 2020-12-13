@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.italic {
+  font-style: italic;
+  font-size: 11px;
+}
+
+.top-music {
+  margin-left: 15px;
+}
